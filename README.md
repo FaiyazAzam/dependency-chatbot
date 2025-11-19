@@ -25,7 +25,7 @@ A Streamlit-based chatbot prototype that helps developers reason about dependenc
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/dependency-chatbot.git
+git clone https://github.com/FaiyazAzam/dependency-chatbot.git
 cd dependency-chatbot
 ```
 
